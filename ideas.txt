@@ -1,0 +1,9 @@
+- every 10 seconds
+
+- maze game
+- collect coins and reach the gem
+- every ten seconds, the light will turn off for five seconds
+
+- collectable coins
+- signs on walls (can't be interacted with)
+- spikes make you respawn
