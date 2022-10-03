@@ -154,13 +154,13 @@ class PlayState extends FlxState
 				case 0:
 					coins++;
 				case 1:
-					coins += 1;
-				case 2:
 					coins += 2;
-				case 3:
+				case 2:
 					coins += 3;
-				case 4:
+				case 3:
 					coins += 4;
+				case 4:
+					coins += 5;
 				case 5:
 					have_key = true;
 			}
